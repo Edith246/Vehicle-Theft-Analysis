@@ -4,7 +4,7 @@ This Power BI project analyzes vehicle theft trends across New Zealand — ident
 
 ## Key Insights
 - Auckland recorded the highest number of vehicle thefts.
-- Most thefts occurred on Fridays and Saturdays.
+- Most vehicle thefts occurred on Sundays, Mondays, and Tuesdays — indicating that the start of the week is the riskiest period for vehicle owners.
 - Toyota, Nissan, and Mazda are the most stolen vehicle brands.
 
 ## Tools Used
